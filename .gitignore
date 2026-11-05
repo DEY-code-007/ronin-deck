@@ -1,0 +1,11 @@
+# Local, private or generated: never commit
+.venv/
+__pycache__/
+*.pyc
+deck.log
+notes.md
+data/token
+data/url.txt
+data/qr.png
+data/launcher.json
+data/config.json
